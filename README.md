@@ -183,6 +183,14 @@ The extension was approved for the Chrome Web Store on August 20, 2026.
 
 Version 1.2.2 was completed at the end of September 2026, with the focus remaining on compatibility, privacy, and keeping the extension deliberately small.
 
+## Download
+
+The easiest way to install **No Autoplay, Thanks!** is through the Chrome Web Store:
+
+[**Install No Autoplay, Thanks! from the Chrome Web Store**](https://chromewebstore.google.com/detail/no-autoplay-thanks/bpoabmnbooiigclffibbgpfioheofdpf)
+
+Installation is handled directly by Chrome, and updates are delivered automatically through the Chrome Web Store.
+
 ## About IT SUCKS!
 
 No Autoplay, Thanks! is part of the **IT SUCKS!** project.
